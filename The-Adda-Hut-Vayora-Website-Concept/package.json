@@ -1,0 +1,16 @@
+{
+  "name": "the-adda-hut-vayora-concept",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive celebration-venue website concept for The Adda Hut by Vayora.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/check-project.mjs",
+    "build": "node scripts/check-project.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
